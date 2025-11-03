@@ -1,0 +1,14 @@
+As a college student, I want to create an app that can help plan my courses semester by semester so that I can graduate on time and stay on track with my degree requirements.
+
+Description:
+
+The GradPlan app will allow students to create a personalized academic plan by selecting courses for each semester. The system will automatically check degree requirements and alert students if they’re missing prerequisites or taking too many/few credits. Students can view their progress toward graduation as a percentage or GPA estimate.
+
+Acceptance Criteria:
+ The student can log in or sign up using their college email.
+ The student can add, edit, and delete courses from their semester plan.
+ The app automatically checks degree requirements (e.g., major core classes, electives).
+ The system provides a progress bar showing percentage completion toward graduation.
+ The student can save their plan to the cloud and access it from any device.
+ The student receives notifications or alerts for schedule conflicts or missing requirements.
+ Advisors can view or suggest changes (optional future feature).
